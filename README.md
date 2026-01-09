@@ -10,7 +10,7 @@
 
 ---
 Скриншоты экрана:
-!["1"].(https://raw.githubusercontent.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.14.12.png?raw=true).
+!["1"].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.14.12.png?raw=true).
 ![2].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.14.33.png).
 ! [3].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.14.42.png).
 ! [4].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.15.28.png).

@@ -9,6 +9,13 @@
 Основная цель — **снизить нагрузку на отдел продаж**, убрав рутинные запросы, и **увеличить конверсию в созвоны**, при этом сохраняя полный контроль над ключевыми этапами воронки продаж.
 
 ---
+Скриншоты экрана:
+! [1].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.14.12.png).
+! [2].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.14.33.png).
+! [3].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.14.42.png).
+! [4].(https://github.com/Myatov/seo_performance_manager_bot/blob/main/Снимок%20экрана%202026-01-09%20в%2017.15.28.png).
+
+---
 
 ## ⚙️ Функционал
 
